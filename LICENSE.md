@@ -1,4 +1,4 @@
-# 
+# updated Trading Bot for uniswap trading bot | market-making & auto-compounding offers the most advanced uniswap trading bot, with market-making and auto-compounding. Ideal for
 
 
 
